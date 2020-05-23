@@ -1,3 +1,4 @@
 # Demo
 Demo of Git
-Demo test--Bob
+Demo test--Allice
+>>>>>>> change made by Allice
