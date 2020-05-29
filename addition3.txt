@@ -1,1 +1,3 @@
 adding feature1.txt
+adding feature2.txt
+adding feature3.txt
